@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vikash Khati</h1>
 <h3 align="center">A Full-Stack Web developer</h3>
 
-<p align="center"> <img src="https://vikash-khati.vercel.app/favicon.png" alt="vikashkhati" /> </p>
+<p align="center"> <img width="100" height="100" src="https://vikash-khati.vercel.app/favicon.png" alt="vikashkhati" /> </p>
 
 - 🔭 I’m currently working on NEXT JS PROJECTS
 
