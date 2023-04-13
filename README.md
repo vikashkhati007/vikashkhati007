@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vikash Khati</h1>
 <h3 align="center">A Full-Stack Web developer</h3>
 
-<p align="center"> <img src="https://media.licdn.com/dms/image/D4D03AQGh4tlMoptrvA/profile-displayphoto-shrink_400_400/0/1681381631160?e=1686787200&v=beta&t=f8V4RZ7db1KXQnXYasLTB7QUdE8WLrKTSDbB_u0gC7w" alt="vikashkhati" /> </p>
+<p align="center"> <img src="https://media.licdn.com/dms/image/D4D03AQGh4tlMoptrvA/profile-displayphoto-shrink_250_250/0/1681381631160?e=1686787200&v=beta&t=f8V4RZ7db1KXQnXYasLTB7QUdE8WLrKTSDbB_u0gC7w" alt="vikashkhati" /> </p>
 
 - 🔭 I’m currently working on NEXT JS PROJECTS
 
