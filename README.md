@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **NEXTJS**
 
-- 👯 I’m looking to collaborate on Frontend Web Developer And Backend Web Developer
+- 👯 I’m looking for collaboration with Frontend and Backend Web Developer 
 
 - 📫 How to reach me **vikashkhati007@gmail.com**
 
