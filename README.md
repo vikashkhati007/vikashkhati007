@@ -13,17 +13,12 @@
 
 - ⚡ Fun fact **Running & Reading**
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vikashkhati007&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-<p align="center"></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikashkhati007&theme=dark" alt="vikashkhati007" /></p>
-<p align="center"></p> 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vikashkhati007&show_icons=true&theme=red" alt="vikashkhati" />
+<p align="center">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikashkhati007&theme=dark" alt="vikashkhati007" /></p>
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikashkhati007&theme=vue">
-<details>
-    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
-
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=vikashkhati007)
-
-</details>
+</p> 
 
 <h3 align="left">Visitor</h3>
 <p align="center">
