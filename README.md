@@ -13,13 +13,10 @@
 
 - ⚡ Fun fact **Running & Reading**
 # 📊 GitHub Stats:
-<p align=""> 
+<p> 
     <img src="https://github-readme-stats.vercel.app/api?username=vikashkhati007&show_icons=true&theme=white" alt="vikashkhati" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikashkhati007&theme=white" alt="vikashkhati007" />
 </p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikashkhati007&theme=white">
-</p> 
 
 <h3 align="left">Visitor</h3>
 <p align="center">
