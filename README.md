@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **Running & Reading**
 # 📊 GitHub Stats:
-<p> 
+<p align="center"> 
     <img src="https://github-readme-stats.vercel.app/api?username=vikashkhati007&show_icons=true&theme=white" alt="vikashkhati" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikashkhati007&theme=white" alt="vikashkhati007" />
 </p>
