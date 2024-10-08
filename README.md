@@ -1,1 +1,6 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=vikashkhati007&theme=youtube-dark)](https://git.io/streak-stats)
+<div style={{ width: "100%", display: "flex", flexDirection: "column", alignItems: "center" }}>
+  {/* GitHub Streak */}
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=vikashkhati007&theme=youtube-dark" alt="GitHub Streak" />
+  </a>
+</div>
