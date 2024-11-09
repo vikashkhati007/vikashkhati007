@@ -9,7 +9,8 @@
 ```
 💻 Programming Languages: Javascript, Typescript, Rust
 🌐 Web Technologies: Next Js , React Js
-📱 App Technologies: React Native
+📱 App Technologies: React Native, Expo
+💻 Desktop App Technologies: Electron
 🛠 Tools & Frameworks: Prisma
 📊 Databases: MongoDB, Appwrite
 ☁️ Cloud Platforms: Aws, Azure, Google Cloud
