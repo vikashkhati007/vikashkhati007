@@ -7,7 +7,7 @@
 ## Skills
 
 ```
-🧑‍💻 Programming Languages: Javascript, Typescript, Rust
+🧑‍💻 Programming Languages: Typescript, Rust
 🌐 Web Technologies: Next Js , React Js
 📱 App Technologies: React Native, Expo
 💻 Desktop App Technologies: Electron
